@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "noImplicitAny": true,
+      "module": "es6",
+      "target": "es6",
+      "skipLibCheck": true,
+      "allowJs": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "typeRoots": ["/core/api/**", "/core/api/mc/**"],
+    }
+  }

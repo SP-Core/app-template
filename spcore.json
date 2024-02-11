@@ -1,0 +1,11 @@
+{
+    "manifest": {
+        "appId": "${{app-id}}$",
+        "name": "${{app-id}}$",
+        "lifetime": "background",
+        "version": "1.0.0",
+        "server_domain": "${{app-id}}$.ru",
+        "host_access": "ALL"
+    },
+    "exe": "dist/index_bundle.js"
+}

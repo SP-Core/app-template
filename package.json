@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.16",
+        "ts-loader": "^9.5.1",
+        "typescript": "^5.3.3"
+    },
+    "dependencies": {
+        "webpack-cli": "^5.1.4"
+    }
+}
